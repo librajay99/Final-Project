@@ -60,7 +60,7 @@ Using your Android smartphone to control the light bulb?
 
 TEAM:
 ->JAY JARIWALA: I did the coding, built the circuit and wrote half of the Read Me file.
--> SAAD SHEIKH: Built the circuit and wrote the other half of the Read Me file.
+-> MOHAMAD SAAD SHAIKH: Built the circuit and wrote the other half of the Read Me file.
 
 CREDITS:
 	HARSH SHARMA TECHNICALS = For third party android application link and source code for the circuit. 
