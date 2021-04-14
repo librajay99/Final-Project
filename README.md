@@ -1,16 +1,10 @@
 # Final-Project
 Topic : Home Management System
 
-INTRODUCTION
- The Home Management System is the focus of this initiative.Home Management System is a simple way to manage and track various gadgets and appliances that we use on a daily basis in our homes. Holding lights, air conditioning, garage doors, surveillance cameras, motion monitors, Security management systems are all examples of these. 
- 
- The aim of this project is to take wired appliances and attach them to a bluetooth module on an Android phone.On your Android smartphone, you must download an app; this app is no longer available on the Play Store, so I will attach a link to download it.
- This project calls for an HC-05 bluetooth module, but I didn't get one, so I used a BLE Grove Dual model, which you can connect to your Android phone. 
- 
  
 INTRODUCTION
 The Home Management System is the focus of this initiative.Home Management System is a simple way to manage and track various gadgets and appliances that we use on a daily basis in our homes. Holding lights, air conditioning, garage doors, surveillance cameras, motion monitors, Security management systems are all examples of these.
-The aim of this project is to take wired appliances and attach them to a bluetooth module on an Android phone.On your Android smartphone, you must download an app; this app is no longer available on the Play Store, so I will attach a link to download it. This project calls for an HC-05 bluetooth module, but I didn’t get one, so I used a BLE Grove Dual model, which you can connect to your Android phone.
+The aim of this project is to take wired appliances and attach them to a bluetooth module on an Android phone.On your Android smartphone, you must download an app; this app is no longer available on the Play Store, so I will attach a link to download it. This project calls for an Grove BLE(dual model), but I didn’t get one, so I used a BLE Grove Dual model, which you can connect to your Android phone.
 
 
 
@@ -35,20 +29,20 @@ REQUIREMENTS AND MATERIALS
 The libraries and hardware that were used in this project are listed here. Dependencies:
 
 Bill of Materials:
-•	Arduino Uno
+•	Arduino Uno   https://solarbotics.com/product/50450/
 •	An Android Phone or tablet
-•	5V Relay Board
-•	Grove- BLE (dual model)
+•	5V Relay Board  https://solarbotics.com/product/52266/
+•	Grove- BLE (dual model)  https://solarbotics.com/product/29156/
 •	Bulb and sockets 
 •	Breadboard
 •	Neutral wire/ Earth wire
-•	Jumper wires
+•	Jumper wires   https://solarbotics.com/product/45037/
 •	LED’S
 
 BUILD INSTRUCTIONS
 What software do you need?
 •	First you have to download, Install and Setup Arduino IDE 
-Now you need to install an app on your Android phone to connect with the Bluetooth. Since the            app isn’t available on PlayStore, you’ll need to download the Android app from the link below.
+Now you need to install an app on your Android phone to connect with the Bluetooth. Since the app isn’t available on PlayStore, you’ll need to download the Android app from the link below.
 -https://goo.gl/7P1St1
 
 Connections:
@@ -70,6 +64,8 @@ TEAM:
 
 CREDITS:
 	HARSH SHARMA TECHNICALS = For third party android application link and source code for the circuit. 
+ https://goo.gl/i2JdjU
+
 
  
  
