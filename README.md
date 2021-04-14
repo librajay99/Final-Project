@@ -2,5 +2,8 @@
 Topic : Home Management System
 
 INTRODUCTION
- This project is on the Home management system. The point of this project is to use wired appliances and use it by a bluetooth module which is connected to a andriod phone. You have to download an app on your andriod device, this app is not available on the playstore anymore so I will be posting the link to download it.
- This Project uses a HC-05 bluetooth module but I didn't get that so I am using a BLE Grove Dual model and you connect this to your andriod phone. 
+ The Home Management System is the focus of this initiative.Home Management System is a simple way to manage and track various gadgets and appliances that we use on a daily basis in our homes. Holding lights, air conditioning, garage doors, surveillance cameras, motion monitors, Security management systems are all examples of these. 
+ The aim of this project is to take wired appliances and attach them to a bluetooth module on an Android phone.On your Android smartphone, you must download an app; this app is no longer available on the Play Store, so I will attach a link to download it.
+ This project calls for an HC-05 bluetooth module, but I didn't get one, so I used a BLE Grove Dual model, which you attach to your Android phone. 
+ 
+ 
